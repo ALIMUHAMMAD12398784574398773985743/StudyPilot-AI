@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Google ADK](https://img.shields.io/badge/Google-ADK-blue?style=for-the-badge&logo=google)
+
+![MCP](https://img.shields.io/badge/MCP-Enabled-success?style=for-the-badge)
+
 # 🎓 StudyPilot AI – Intelligent Multi-Agent Learning Concierge
 
 <p align="center">
@@ -23,6 +36,7 @@ The project demonstrates modern AI application architecture by combining **Googl
 Instead of relying on a single AI assistant, StudyPilot AI coordinates multiple specialized agents that work together to deliver personalized educational assistance.
 
 ---
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/41f74b28-2388-402b-b311-e3631b1c12b7" />
 
 # ✨ Key Features
 
