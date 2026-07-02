@@ -1,8 +1,10 @@
+<img width="1024" height="1536" alt="ChatGPT Image Jul 3, 2026, 02_38_21 AM" src="https://github.com/user-attachments/assets/a5432b30-36f2-4842-82f1-0012c300b1df" />
+
+
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     <img width="1024" height="1536" alt="ChatGPT Image Jul 3, 2026, 02_38_21 AM" src="https://github.com/user-attachments/assets/87c87101-df19-447b-ad98-562ec6394e41" />
-                             -->
+<!--   
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
