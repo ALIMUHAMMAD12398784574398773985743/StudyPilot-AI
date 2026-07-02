@@ -1,0 +1,3 @@
+This is a study note about Advanced Python features.
+Decorators allow wrapping functions to modify behavior.
+Generators use yield to produce values lazily.
